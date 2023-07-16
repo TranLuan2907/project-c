@@ -12,7 +12,7 @@
 
 ## **Technique**
 
--Using some basic core of C programming language.
+-Using some basic cores of C programming language.
 
 
 ## **Contributing**
